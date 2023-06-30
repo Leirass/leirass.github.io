@@ -1,11 +1,75 @@
-.jaja{
+h1{
+    color:	#800080;
+    font-size: 80px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 30px;
-    color: brown;
+    text-align: center;
+    position: absolute;
+    top: 3%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
-.boton1{
-    font-size: 50px;
+h2{
+    color:	#5DC1B9;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h3{
+    color:	#800080;
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+h4{
+    color:	#5DC1B9;
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 42%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+
+
+}
+.diogo{
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left:0.5%;
+    
 }
 .parrafo{
-    font-size: 30px;
+    color:black;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    position:   absolute;
+    top: 103%;
+    left: 64%;
+    transform: translate(-50%, -50%);
 }
+.boton1{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position:   absolute;
+    top: 165%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    background-color: #800080
+    
+
+    
+}
+
+
+
